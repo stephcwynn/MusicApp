@@ -24,10 +24,12 @@ header p {
 .pads{
     background: lightblue;
     width: 100%;
+    display: flex;
 }
 .pads > div {
     height: 100px;
     width: 100px;
+    flex: 1;
 }
 .pad1 {
     background: #60d394;
