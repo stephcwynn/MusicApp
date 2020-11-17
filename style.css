@@ -19,7 +19,7 @@ header h1 {
     font-size: 40px;
 }
 header p {
-    font-size: 20px;
+    font-size: 25px;
 }
 .pads{
     background: lightblue;
@@ -56,9 +56,9 @@ header p {
     width: 50px;
     border-radius: 50%;
     bottom: 0%;
-    left: 20%;
     bottom: 0%;
     z-index: -1;
+    transform: scale(1);
 }
 
 @keyframes jump{
@@ -75,12 +75,3 @@ header p {
         left: 80%;
     }
 }
-
-.visual > div {
-    position: absolute;
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
-    bottom: 0%;
-}
-
