@@ -49,6 +49,19 @@ header p {
 .pad6 {
     background: #60b2d3;
 }
+.pad7 {
+    background:  #d36096;
+}
+.pad8 {
+    background:  #eed64c;
+}
+.pad9 {
+    background:  #f158a0;
+}
+.pad10 {
+    background:  #f0951d;
+}
+
 
 .visual > div {
     position: absolute;
