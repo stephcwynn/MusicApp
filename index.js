@@ -9,10 +9,10 @@ window.addEventListener("load", () => {
         "#d3d160", 
         "#6860d3", 
         "#60b2d3",
-        "#d36096",
-        "#d3b860",
-        "#a16a84",
-        "#c97507",
+        "#7406bd",
+        "#eed64c",
+        "#f158a0",
+        "#f0951d",
     ];
     
     //Lets get going with the sound here
@@ -38,3 +38,4 @@ window.addEventListener("load", () => {
 });
 
 
+//creating an update to the correct colors 

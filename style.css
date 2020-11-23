@@ -7,7 +7,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 .app{
-    height: 100vh;
+    height: 110vh;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -61,7 +61,6 @@ header p {
 .pad10 {
     background:  #f0951d;
 }
-
 
 .visual > div {
     position: absolute;
